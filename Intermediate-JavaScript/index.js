@@ -13,5 +13,5 @@ if (loveScore > 30 && loveScore <= 70) {
 if (loveScore <= 30) {
     alert("Your love score is" + loveScore + "%" + "You go together like oil and water.");
 }else {
-    alert("Your love score is" + loveScore);
+    alert("No love" + loveScore);
 }
