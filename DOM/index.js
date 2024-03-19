@@ -14,3 +14,5 @@ document.querySelectorAll("li.item")
 // changing style using javascript
 
 document.querySelector(".btn").style.backgroundColor = "red";
+
+document.querySelector("input").setAttribute("type", "text");
