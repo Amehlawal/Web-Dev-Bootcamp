@@ -1,3 +1,31 @@
-.huge{
+/* .huge{
     font-size: 3rem;
+} */
+/* #item{
+    color: green;
+} */
+.list{
+    background-color: red;
+    /* padding: 12px; */
+    margin: 4px;
+    list-style: none;
+    width: 200px;
+    padding: 2px;
+    text-align: center;
+    border-radius: 12px;
+    border-bottom: 2px solid yellow;
+    
+
+}
+.list:hover{
+    background-color: blue;
+}
+
+#item{
+    margin-top: 2px;
+    padding: ;
+}
+.unordered{
+    background-color: blueviolet;
+    padding: 2px;
 }
