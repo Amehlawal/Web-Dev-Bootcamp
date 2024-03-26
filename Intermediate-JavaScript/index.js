@@ -15,3 +15,16 @@ if (loveScore <= 30) {
 }else {
     alert("No love" + loveScore);
 }
+
+
+var age = 20;
+
+if (age > 19) {
+    console.log("I am going to be a star");
+
+}
+else{
+    alert(
+        "He is a criminal"
+    )
+}

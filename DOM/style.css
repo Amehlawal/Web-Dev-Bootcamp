@@ -6,7 +6,7 @@
 } */
 .list{
     background-color: red;
-    /* padding: 12px; */
+    padding: 12px;
     margin: 4px;
     list-style: none;
     width: 200px;
